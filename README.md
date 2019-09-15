@@ -1,2 +1,8 @@
-# ANLY560Chenlu
-ANLY560Chenlu
+
+public class HelloWorld {
+      
+      public static void main(String[] args) {
+          System.out.println("Hello World");
+      }
+      
+ }
